@@ -1,0 +1,14 @@
+
+nav {display:flex;
+    flex-direction: row;
+    background-color:blue}
+
+    a {
+        color:red;
+        justify-content: space-between;
+        flex-grow: 14px;
+        font-size: 14pt;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+
+        }
+    
